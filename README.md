@@ -18,13 +18,13 @@
 
 	Features:
 
-		• New Materials
+	• New Materials
         • Lighting
         • Pre-Processing
         • Player Input
-		• Camera Manipulation 
-		• Object Interactions / Trigger Object
-		• Animations
+	• Camera Manipulation 
+	• Object Interactions / Trigger Object
+	• Animations
         • Blend Tree Movement? 
         • Advanced Player Input
         • Sounds
@@ -56,7 +56,7 @@
 
     YouTube Tutorials:
 
-		• KitchenChaos - CodeMonkey
+	• KitchenChaos - CodeMonkey
         • RPG Hero Diner - Design and Deploy
         • Every Post-Processing Effect - Sasquatch B
         • Light Up Your Game : Unity Lighting Essentials! - Fist Full of Shrimp
